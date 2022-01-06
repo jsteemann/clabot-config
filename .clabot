@@ -222,7 +222,10 @@
       "wajda",
       "KVS85",
       "sachinsharma9780",
-      "jan-zajic"
+      "jan-zajic",
+      "apetenchea",
+      "ajurdak",
+      "MBkkt"
     ],
   "messageMissingEmail": "Thank you for your pull request and welcome to our community. We could not parse the GitHub identity of the following contributors: **{{unidentifiedUsers}}**.\nThis is most likely caused by a git client misconfiguration; please make sure to:\n1. check if your git client is configured with an email to sign commits `git config --list | grep email`\n2. If not, set it up using `git config --global user.email email@example.com`\n3. Make sure that the git commit email is configured in your GitHub account settings, see https://github.com/settings/emails",
   "message": "Fresh avocado detected! Welcome and thank you for your contribution {{usersWithoutCLA}}. My avocado-loving overlords have decreed a signed CLA is required for PRs. Please see https://github.com/arangodb/arangodb/blob/devel/CONTRIBUTING.md file to learn more or ask @cw00dw0rd if you have issues.",
